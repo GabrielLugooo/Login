@@ -31,7 +31,7 @@ Additionally, this project serves as an introduction to creating graphical inter
 #### Preview
 
 <img align="center" src="https://i.imgur.com/vksNgqS.jpeg" alt="Login01" />
-<img align="center" src="https://i.imgur.com/D4w03G0.jpeg" alt="Login02" height="250" />
+<img align="center" src="https://i.imgur.com/D4w03G0.jpeg" alt="Login02" height="450" />
 
 #### Code with Comments (English)
 

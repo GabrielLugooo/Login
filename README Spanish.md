@@ -31,7 +31,7 @@ Además, este proyecto sirve como una introducción a la creación de interfaces
 #### Vista Previa
 
 <img align="center" src="https://i.imgur.com/vksNgqS.jpeg" alt="Login01" />
-<img align="center" src="https://i.imgur.com/D4w03G0.jpeg" alt="Login02" />
+<img align="center" src="https://i.imgur.com/D4w03G0.jpeg" alt="Login02" height="250" />
 
 #### Código con Comentarios (Español)
 

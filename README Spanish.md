@@ -22,6 +22,7 @@ Además, este proyecto sirve como una introducción a la creación de interfaces
 ### Herramientas Usadas
 
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
+[Static Badge](https://img.shields.io/badge/TKinter-000000?logo=tkinter&logoSize=auto)
 
 - Python.
 - `customtkinter` (desarrollo de GUI) para la interfaz gráfica.
@@ -83,7 +84,6 @@ root.mainloop()
 ### Limitaciones
 
 El Login es solo para fines educativos bajo la licencia MIT.
-También esta disponible el código de la versión mínimal.
 
 ---
 

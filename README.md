@@ -22,6 +22,7 @@ Additionally, this project serves as an introduction to creating graphical inter
 ### Tools Used
 
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/TKinter-000000?logo=tkinter&logoSize=auto)
 
 - Python.
 - `customtkinter` (GUI development) for the graphical interface.
@@ -83,7 +84,6 @@ root.mainloop()
 ### Limitations
 
 Login it's just for educational purpose under the MIT License.
-The code for the minimal version is also available.
 
 ---
 
